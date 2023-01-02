@@ -3,7 +3,7 @@ top=20
 
 function TIC()
   cls(8)
-  rect(0,   100, 240, 30, 12)
+  rect(0,   100, 240, 40, 12)
   rect(114,  82,  11, 20, 2)
   circ(119, 104, 5, 2)
   for i=1,3 do
